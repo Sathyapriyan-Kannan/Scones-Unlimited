@@ -14,6 +14,7 @@ This project is a part of the Assessment in the Udacity's AWS Machine Learning E
 
 ```
 Python 3.7
+scikit-learn latest
 ```
 
 ### Installation
@@ -43,5 +44,8 @@ as a JSON Object.
 
 ## Step Functions Graph
 ![Step Functions Graph](images/stepfunctions_graph%20.png "Step Functions") ![Step Functions Graph Working](images/stepfunctions_graph_working.png "Step Functions - After Execution")
+
+## Step Function Output
+![Step Function Output](images/Step-Function-Output.png)
 ## License
 [License](LICENSE.txt)
